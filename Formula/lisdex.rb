@@ -4,7 +4,7 @@ class Lisdex < Formula
   desc "Menu bar app that keeps your Mac awake, for a while or on a schedule"
   homepage "https://github.com/pedrol2b/lisdex"
   url "https://github.com/pedrol2b/lisdex/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "9e3a738ca330af2090cf25984dee47ed3d9c5cba00fb00c0889edb2b1e4f05b6"
   license "MIT"
   head "https://github.com/pedrol2b/lisdex.git", branch: "main"
 
